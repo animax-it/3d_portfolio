@@ -52,7 +52,7 @@ const Navbar = () => {
 
         <div className='flex items-center gap-6'>
           {/* Download CV button */}
-          <a href="../assets/animeshresume.pdf" download>
+          <a href="../assets/aniresume-917d4544.pdf" download>
             <button
               className="bg-[#915EFF] text-white px-4 py-2 rounded-lg"
               // Apply any additional styling you need for the button
@@ -61,7 +61,7 @@ const Navbar = () => {
 
             </button>
           </a>
-          <a href="../assets/aniresume.pdf" download>
+          <a href="../assets/animeshresume-16ece494.pdf" download>
             <button
               className="bg-[#915EFF] text-white px-4 py-2 rounded-lg"
               // Apply any additional styling you need for the button
