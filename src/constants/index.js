@@ -30,7 +30,7 @@ import {
   sentiment,
   link,bit,ev,pb,
   aniresume,
-  animeshresume
+  // animeshresume
 } from "../assets";
 
 export const navLinks = [
@@ -48,9 +48,9 @@ export const navLinks = [
   },
 ];
 
-const animeshresume = [
-  {animeshresume: animeshresume}
-]
+// const animeshresume = [
+//   {animeshresume: animeshresume}
+// ]
 const services = [
   {
     title: "Web Developer",
