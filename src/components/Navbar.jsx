@@ -50,23 +50,12 @@ const Navbar = () => {
           </p>
         </Link>
 
-        <div className='flex items-center gap-6'>
-          {/* Download CV button */}
-          <a href="../assets/aniresume-917d4544.pdf" download>
-            <button
-              className="bg-[#915EFF] text-white px-4 py-2 rounded-lg"
-              // Apply any additional styling you need for the button
-            >
-              Download CV
-
-            </button>
-          </a>
           <a href="../assets/animeshresume-6d4cc599.pdf" download>
             <button
               className="bg-[#915EFF] text-white px-4 py-2 rounded-lg"
               // Apply any additional styling you need for the button
             >
-              Download CV 2
+              Download CV
 
             </button>
           </a>
