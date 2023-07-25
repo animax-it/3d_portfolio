@@ -29,7 +29,8 @@ import {
   memories,
   sentiment,
   link,bit,ev,pb,
-  aniresume
+  aniresume,
+  animeshresume
 } from "../assets";
 
 export const navLinks = [
@@ -48,7 +49,7 @@ export const navLinks = [
 ];
 
 const resume = [
-  {resume:"aniresume"}
+  {resume: animeshresume}
 ]
 const services = [
   {

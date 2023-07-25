@@ -29,6 +29,7 @@ import bit from "./company/bit.png";
 import pb from "./company/pb.png";
 import ev from "./company/ev.png";
 import aniresume from "./aniresume.pdf";
+import animeshresume from "./animeshresume.pdf";
 
 
 import carrent from "./carrent.png";
@@ -76,5 +77,6 @@ export {
   sentiment,
   link,
   pb,bit,ev,
-  aniresume
+  aniresume,
+  animeshresume
 };
