@@ -58,6 +58,7 @@ const Navbar = () => {
               // Apply any additional styling you need for the button
             >
               Download CV
+              
             </button>
           </a>
 
