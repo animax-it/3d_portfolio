@@ -6,11 +6,3 @@ export default defineConfig({
   plugins: [react()],
   define: {'process.env': process.env}
 })
-
-module.exports = {
-  root: './',
-  build: {
-      outDir: 'dist',
-  },
-  publicDir: 'assets'
-} 
