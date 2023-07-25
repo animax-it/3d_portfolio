@@ -49,7 +49,8 @@ export const navLinks = [
 ];
 
 const resume = [
-  {resume: "animeshresume"}
+  {aniresume: "aniresume",
+animeshresume: "animeshresume"}
 ]
 const services = [
   {
