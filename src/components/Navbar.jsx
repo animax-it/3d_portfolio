@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 import { styles } from "../styles";
 import { navLinks } from "../constants";
 import { logo, menu, close } from "../assets";
-import { aniresume, animeshresume } from "../constants"; // Import the resume constant
+import { aniresume1, animeshresume1 } from "../constants"; // Import the resume constant
 
 const Navbar = () => {
   const [active, setActive] = useState("");

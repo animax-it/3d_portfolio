@@ -48,10 +48,10 @@ export const navLinks = [
   },
 ];
 
-const resume = [
-  {aniresume: "aniresume",
-animeshresume: "animeshresume"}
-]
+const animeshresume1 = animeshresume
+const aniresume1 = aniresume
+
+
 const services = [
   {
     title: "Web Developer",
@@ -315,4 +315,4 @@ const projects = [
 
 ];
 
-export { resume, services, technologies, experiences, testimonials, projects };
+export { animeshresume1, aniresume1, services, technologies, experiences, testimonials, projects };
