@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 import { styles } from "../styles";
 import { navLinks } from "../constants";
 import { logo, menu, close } from "../assets";
-import { animeshresume } from "../assets"; // Import the resume constant
+import { resume } from "../constants"; // Import the resume constant
 
 const Navbar = () => {
   const [active, setActive] = useState("");
@@ -52,7 +52,7 @@ const Navbar = () => {
 
         <div className='flex items-center gap-6'>
           {/* Download CV button */}
-          <a href="../assets/aniresume.pdf" download>
+          <a href="../assets/animeshresume.pdf" download>
             <button
               className="bg-[#915EFF] text-white px-4 py-2 rounded-lg"
               // Apply any additional styling you need for the button
@@ -61,7 +61,15 @@ const Navbar = () => {
 
             </button>
           </a>
+          <a href="../assets/aniresume.pdf" download>
+            <button
+              className="bg-[#915EFF] text-white px-4 py-2 rounded-lg"
+              // Apply any additional styling you need for the button
+            >
+              Download CV 2
 
+            </button>
+          </a>
           {/* About button */}
           <ul className='list-none hidden sm:flex flex-row gap-10'>
             {navLinks.map((nav) => (

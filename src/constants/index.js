@@ -29,7 +29,7 @@ import {
   memories,
   sentiment,
   link,bit,ev,pb,
- // animeshresume
+resume
 } from "../assets";
 
 export const navLinks = [
@@ -47,9 +47,9 @@ export const navLinks = [
   },
 ];
 
-// const animeshresume = [
-//   {animeshresume: animeshresume}
-// ]
+const resume = [
+  {resume: "animeshresume"}
+]
 const services = [
   {
     title: "Web Developer",
@@ -313,4 +313,4 @@ const projects = [
 
 ];
 
-export { services, technologies, experiences, testimonials, projects };
+export { resume, services, technologies, experiences, testimonials, projects };
