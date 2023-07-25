@@ -315,4 +315,4 @@ const projects = [
 
 ];
 
-export { animeshresume1, aniresume1, services, technologies, experiences, testimonials, projects };
+export { services, technologies, experiences, testimonials, projects };
