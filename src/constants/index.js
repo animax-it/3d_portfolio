@@ -48,8 +48,8 @@ export const navLinks = [
   },
 ];
 
-const resume = [
-  {resume: animeshresume}
+const animeshresume = [
+  {animeshresume: animeshresume}
 ]
 const services = [
   {
@@ -314,4 +314,4 @@ const projects = [
 
 ];
 
-export { resume, services, technologies, experiences, testimonials, projects };
+export { animeshresume, resume, services, technologies, experiences, testimonials, projects };
