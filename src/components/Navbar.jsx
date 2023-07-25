@@ -61,7 +61,7 @@ const Navbar = () => {
 
             </button>
           </a>
-          <a href="../assets/animeshresume-16ece494.pdf" download>
+          <a href="../assets/animeshresume-6d4cc599.pdf" download>
             <button
               className="bg-[#915EFF] text-white px-4 py-2 rounded-lg"
               // Apply any additional styling you need for the button
