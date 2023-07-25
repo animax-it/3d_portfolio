@@ -50,6 +50,8 @@ const Navbar = () => {
           </p>
         </Link>
 
+        <div className='flex items-center gap-6'>
+          
           <a href="../assets/animeshresume-6d4cc599.pdf" download="AnimeshResume.pdf">
             <button
               className="bg-[#915EFF] text-white px-4 py-2 rounded-lg"
