@@ -29,7 +29,8 @@ import {
   memories,
   sentiment,
   link,bit,ev,pb,
-resume
+animeshresume,
+aniresume
 } from "../assets";
 
 export const navLinks = [
