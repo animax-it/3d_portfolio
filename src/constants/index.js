@@ -29,8 +29,7 @@ import {
   memories,
   sentiment,
   link,bit,ev,pb,
-  aniresume,
-  // animeshresume
+ // animeshresume
 } from "../assets";
 
 export const navLinks = [
@@ -314,4 +313,4 @@ const projects = [
 
 ];
 
-export { animeshresume, resume, services, technologies, experiences, testimonials, projects };
+export { services, technologies, experiences, testimonials, projects };
